@@ -90,7 +90,7 @@ Here, I implemented the user as a process paying for a drink using 5, 10 or 20 c
 		run MACHINE(moneyIn, drinkOut, changeOut);
 	}
 
-3. 
+3) 
 
 	CLIENT = call -> (wait / timeout) -> continue -> CLIENT
 	SERVER = request -> (busy / (service -> reply)) -> SERVER
